@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'webapp-win-gh-002'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_c158577de9df421783010ff22714d8e3 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_54b16e5041ce4478b6bea36bcc4a6149 }}
         package: .
